@@ -14,7 +14,7 @@ This project implements a **Sequential Process** (pipe) simulating a premium dat
 graph TD
     A[🔍 Data Harvester<br><i>Llama 3.1 8B + Serper</i>] -->|Raw Facts & Stats| B(🧠 Lead Data Analyst<br><i>Qwen 2.5 7B</i>)
     B -->|Analytical Summary| C(📐 Information Architect<br><i>Qwen 2.5 7B</i>)
-    C -->|Structured Data| D[🖋️ Executive Editor<br><i>Qwen 2.5 7B</i>)
+    C -->|Structured Data| D[🖋️ Executive Editor<br><i>Qwen 2.5 7B</i>]
     D -->|Final Compilation| E[[📄 final_report.md]]
 ```
 
