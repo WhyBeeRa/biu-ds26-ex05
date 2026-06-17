@@ -1,0 +1,4 @@
+crewai>=0.100.0
+crewai-tools
+python-dotenv
+litellm

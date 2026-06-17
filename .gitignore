@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables (contains private API keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output reports (optional, but keep repo clean if needed. Usually we can push final_report.md as proof of work)
+# final_report.md
